@@ -2,6 +2,7 @@
 TRAIN/
 VAL/
 HOLDOUT/
+class_list_bbox.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
