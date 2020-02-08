@@ -3,7 +3,10 @@ TRAIN/
 VAL/
 HOLDOUT/
 class_list_bbox.txt
-detectron2_repo
+detectron2_repo/
+EndoCV_Det/
+configs/
+output/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
